@@ -1,0 +1,7 @@
+[Activity]
+name = Gedit
+service_name = org.laptop.Gedit
+icon = Gedit
+activity_version = 1
+show_launcher = yes
+exec = sugarGedit
